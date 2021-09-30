@@ -16,5 +16,5 @@ I decided to focus on Frontend development with Angular as a primary framework.
 
 
 ### GitHub Stats
-![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BD4vid777&theme=algolia&layout=compact) ![Dawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=BD4vid777&hide_title=true&theme=algolia&show_icons=true)
+![Dawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=BD4vid777&hide_title=true&theme=default&show_icons=true&title_color=#1ABCFE&border_color=#1ABCFE&icon_color#1ABCFE) ![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BD4vid777&theme=default&layout=compact) 
 
